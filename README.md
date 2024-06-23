@@ -1,2 +1,3 @@
-# devenv-base
-Prebuild dev container base image for all devcontainers
+# devenv-debain
+
+Debian dev container that uses nix to install packages
